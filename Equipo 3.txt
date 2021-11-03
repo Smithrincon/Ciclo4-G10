@@ -3,3 +3,4 @@ Integrantes
 
 Diego Armando Gomez Lara - Role Scrum 
 Luis Alberto - Role Dev
+Juan pablo Velez-Role Dev
