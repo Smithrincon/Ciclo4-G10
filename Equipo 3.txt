@@ -1,0 +1,5 @@
+Nombre Equipo -- Team3
+Integrantes
+
+Diego Armando Gomez Lara - Role Scrum 
+Luis Alberto - Role Dev
