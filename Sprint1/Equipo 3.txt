@@ -1,6 +1,6 @@
 Nombre Equipo -- Team3
 Integrantes
-
+jenifer  Castro
 Diego Armando Gomez Lara - Role Scrum 
 Luis Alberto - Role Dev
 Juan pablo Velez-Role Dev
